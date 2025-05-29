@@ -4,8 +4,8 @@
             "tri_layer": true
         }
     },
-    "keyboard": "keebio/iris/rev8",
-    "keymap": "default",
+    "keyboard": "keebio/iris/rev7",
+    "keymap": "k4ttitude",
     "layout": "LAYOUT",
     "layers": [
         [

@@ -4,8 +4,8 @@
             "tri_layer": true
         }
     },
-    "keyboard": "keebio/iris/rev8",
-    "keymap": "default",
+    "keyboard": "keebio/iris/rev7",
+    "keymap": "k4ttitude_tap_hold",
     "layout": "LAYOUT",
     "layers": [
         [
@@ -37,7 +37,7 @@
             "LALT_T(KC_A)",
             "KC_S",
             "KC_D",
-            "LSFT_T(KC_F)",
+            "KC_F",
             "KC_G",
             "KC_H",
             "KC_J",
@@ -54,15 +54,15 @@
             "KC_NO",
             "KC_NO",
             "KC_N",
-            "KC_M",
+            "LT(1,KC_M)",
             "KC_COMM",
             "KC_DOT",
             "KC_SLSH",
             "KC_ESC",
             "KC_LGUI",
             "MO(1)",
-            "HYPR(KC_NO)",
             "KC_SPC",
+            "RSFT_T(KC_SPC)",
             "MO(2)",
             "KC_RALT"
         ],
