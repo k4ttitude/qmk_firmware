@@ -19,7 +19,9 @@ along with this program.  If not, see <http://www.gnu.org/licenses/>.
 
 #define RGBLIGHT_DEFAULT_MODE (RGBLIGHT_MODE_RAINBOW_SWIRL + 2)
 
-#define TAPPING_TERM 220
-#define FLOW_TAP_TERM 100
-#define PERMISSIVE_HOLD
-#define CHORDAL_HOLD
+#define TAPPING_TERM 225
+
+// #define MAX_DEFERRED_EXECUTORS 10
+// #define SMTD_GLOBAL_RELEASE_TERM 25
+// #define SMTD_GLOBAL_TAP_TERM 225
+// #define SMTD_GLOBAL_FOLLOWING_TAP_TERM 225
